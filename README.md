@@ -44,7 +44,6 @@ I poke at how Android apps actually behave once you're past the UI: permissions,
 | Project | What it does |
 |---|---|
 | [**Android App Hub**](https://github.com/privshell/android-app-hub) | Seven Android app directories in one self-hosted Termux dashboard. |
-| [**Awesome Shizuku**](https://github.com/privshell/awesome-shizuku) | Curated list of awesome Android apps making use of Shizuku. |
 
 ### contact
 
